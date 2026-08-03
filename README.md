@@ -4,6 +4,10 @@
 
 <h3 align="center"><a href="#">React.js | Node.js | Express.js | MongoDB</a></h3>
 
+<p align="center">
+🚀 Building the <b>Kunbi Samaj Community Platform</b> &nbsp;|&nbsp; 🌱 Turning ideas into scalable web apps &nbsp;|&nbsp; 📍 Indore, MP
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
