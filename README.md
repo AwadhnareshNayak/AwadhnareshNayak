@@ -34,8 +34,12 @@
 ---
 
 # 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AwadhnareshNayak&theme=tokyonight"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=AwadhnareshNayak&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
