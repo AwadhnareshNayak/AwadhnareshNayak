@@ -56,19 +56,6 @@
 </p>
 
 ---
-# 🗓️ Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/AwadhnareshNayak">
-    <img
-      src="https://ghchart.rshah.org/409ba5/AwadhnareshNayak"
-      alt="GitHub Contribution Calendar"
-      width="100%"
-    />
-  </a>
-</p>
-
----
 
 # 💼 Featured Projects
 
