@@ -36,9 +36,10 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=AwadhnareshNayak&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+  <img
+    src="https://streak-stats.demolab.com?user=AwadhnareshNayak&theme=tokyonight&hide_border=true"
+    alt="Awadhnaresh Nayak GitHub Streak"
+    width="80%"
   />
 </p>
 
@@ -48,9 +49,23 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AwadhnareshNayak&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AwadhnareshNayak&theme=tokyo-night&hide_border=true"
     alt="Awadhnaresh Nayak Contribution Graph"
+    width="100%"
   />
+</p>
+
+---
+# 🗓️ Contribution Calendar
+
+<p align="center">
+  <a href="https://github.com/AwadhnareshNayak">
+    <img
+      src="https://ghchart.rshah.org/409ba5/AwadhnareshNayak"
+      alt="GitHub Contribution Calendar"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
