@@ -1,5 +1,3 @@
-# 👨‍💻 Awadhnaresh Nayak — GitHub Profile README
-
 <h1 align="center">Hi 👋, I'm Awadhnaresh Nayak</h1>
 
 <h3 align="center">
