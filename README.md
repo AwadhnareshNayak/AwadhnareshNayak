@@ -1,22 +1,24 @@
- <h1 align="center">Hi 👋, I'm Awadhnaresh Nayak</h1>
+# 👨‍💻 Awadhnaresh Nayak — GitHub Profile README
+
+<h1 align="center">Hi 👋, I'm Awadhnaresh Nayak</h1>
 
 <h3 align="center">
-💻 Software Engineer | Full-Stack Developer (MERN Stack)
+💻 Software Engineer | Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer+(MERN);React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Secure+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Secure+Web+Applications" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/AwadhnareshNayak">
-    <img src="https://img.shields.io/badge/GitHub-AwadhnareshNayak-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/awadhnaresh-nayak-5a5977237">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-website-three-beta-45.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -24,20 +26,21 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **MERN Stack Developer (Full-Time)** at Gnv India Techverse Pvt Ltd — September 2026–Present.
-- 🎓 PG Diploma in Advanced Secure Software Development (PG-DASSD), C-DAC Hyderabad (2025–2026).
-- 🎓 B.Tech in Information Technology, Chameli Devi Group of Institutions, Indore (RGPV), 2025.
-- 🌐 Developed production platforms: [Kunbi Samaj](https://kunbisamaj.in) and [Sanskruti Shubh Aangan](https://sanskrutishubhaangan.com).
-- 🔐 Experience with JWT, OTP authentication, HTTP-only cookies, bcrypt and Role-Based Access Control (RBAC).
-- ☁️ AWS Academy Graduate — Cloud Foundations ([Credly Badge](https://credly.com/go/3epRXdJH)).
-- 🌱 Interested in secure software development, social work and poetry.
+- 🎓 B.Tech in Information Technology — 2025
+- 🎓 PG Diploma in Advanced Secure Software Development (PG-DASSD), C-DAC Hyderabad
+- 💼 MERN Stack Developer at Gnv India Techverse Pvt Ltd
+- 🚀 Building full-stack web applications and community platforms
+- 🔐 Interested in secure coding, JWT authentication, OTP verification and RBAC
+- ☁️ AWS Academy Graduate — Cloud Foundations
+- 🌱 Continuously learning new technologies and improving my development skills
+- 💡 Passionate about software engineering, problem-solving and creating impactful digital products
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,tailwind,firebase,aws,git,github,postman,vscode,figma,vercel,wordpress" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,postman,vscode,figma,aws,vercel,wordpress" alt="Technology Stack"/>
 </p>
 
 **Languages:** C, C++, JavaScript (ES6)
@@ -46,19 +49,38 @@
 
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
 
-**Database:** MongoDB, Mongoose, Firebase Firestore
+**Database:** MongoDB, Mongoose, Firebase Firestore, MySQL
 
-**Tools:** Git, GitHub, Postman, VS Code, Figma, Vercel, WordPress
+**Tools:** Git, GitHub, Postman, VS Code, Figma, Vercel
 
-**Cloud:** AWS Cloud Foundations
+**Cloud & Security:** AWS Cloud Foundations, bcrypt, HTTP-only Cookies, OTP Authentication, Role-Based Access Control (RBAC)
+
+---
+
+## 🔐 Secure Software Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend_Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/REST-API_Development-005571?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/RBAC-Access_Control-6C63FF?style=for-the-badge" alt="RBAC"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+</p>
+
+- Secure authentication and authorization.
+- Password hashing with bcrypt.
+- JWT-based authentication with HTTP-only cookies.
+- OTP-based verification workflows.
+- Protected routes and role-based dashboards.
+- REST API development and MongoDB integration.
 
 ---
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwadhnareshNayak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwadhnareshNayak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AwadhnareshNayak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwadhnareshNayak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -66,21 +88,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AwadhnareshNayak&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" width="80%"/>
+  <img src="https://streak-stats.demolab.com?user=AwadhnareshNayak&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/AwadhnareshNayak?tab=overview">
-    <img src="https://img.shields.io/badge/View-Live_GitHub_Contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Explore my GitHub profile for the official contribution calendar and recent activity.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwadhnareshNayak&theme=tokyo-night" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -91,22 +107,23 @@
 
 **Smart Society Management & Community Platform**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST API`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 
 - Resident, Admin and Super Admin dashboards.
-- Role-based access control and secure authentication.
-- Complaints, visitors, events, notices, amenities, polls, documents and notifications.
-- Admin analytics and audit logs.
+- Secure authentication and role-based access control.
+- Complaints, visitor management, events, notices and amenities.
+- Polls, documents, notifications, analytics and audit logs.
 
-### ⭐ [Kunbi Samaj Community Platform](https://kunbisamaj.in)
+### ⭐ [Kunbi Samaj](https://kunbisamaj.in)
 
 **Full-Stack Community Platform**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Axios`
 
-- Matrimonial profiles and matching.
+- Matrimonial profiles and community connections.
 - Business directory and community feed.
-- Events, secure authentication and user dashboards.
+- Events, user dashboards and authentication.
+- Designed to bring community members and businesses together.
 
 ### ⭐ [Portfolio Website](https://portfolio-website-three-beta-45.vercel.app/)
 
@@ -114,9 +131,10 @@
 
 `React.js` `Vite` `Framer Motion` `Vercel`
 
-- Responsive portfolio design.
+- Responsive portfolio website.
 - Reusable React components.
-- Smooth animations and modern UI.
+- Modern UI with smooth animations.
+- Showcases my skills, projects and development journey.
 
 ---
 
@@ -140,5 +158,5 @@
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-  <i>Building today. Innovating tomorrow.</i>
+  <i>Building today. Innovating tomorrow. 🚀</i>
 </p>
